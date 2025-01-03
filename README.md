@@ -1,26 +1,5 @@
-# CSC 495: Hebbian/STDP-Inspired Approach to Mitigate Catastrophic Forgetting
+# EWC Approach to Mitigate Catastrophic Forgetting
 
-
-
-## Project Structure
-```
-├── src/
-│   ├── hebbian/
-│   │   ├── stdp_model.py
-│   │   └── hebbian_learning.py
-│   ├── baselines/
-│   │   ├── ewc.py
-│   │   └── activation_sharpening.py
-│   └── utils/
-│       ├── data_loader.py
-│       └── visualization.py
-├── experiments/
-│   ├── mnist_sequential/
-│   └── permuted_mnist/
-├── tests/
-├── docs/
-└── requirements.txt
-```
 
 ## Core Components
 
